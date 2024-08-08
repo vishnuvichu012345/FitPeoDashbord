@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Home from './componet/Home';
 import Homepage from './componet/Homepage';
 
 function App() {
